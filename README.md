@@ -7,7 +7,7 @@ In this project, a Convolutional Neural Network (CNN) and a Fully Convolutional 
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-FCN%20Fully%20Convolutional%20Network-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Zombie-Detection-using-Object-Detection-API/master/reports/figures/Zombie%20Detection%20using%20Object%20Detection%20API.jpg" width="700" height="526" /><br>
+<img align="center" alt="jpg" src="https://github.com/moreno32/Multimodal-MNIST-Handwriting-Segmentation-with-FCN-8/blob/master/reports/figures/m2nist_segmentation.png" width="800" height="216" /><br>
 
 ## 🎊 Motivation:
 Handwriting recognition and segmentation is a crucial task in the field of computer vision and image processing. This project aims to create a model that can accurately segment and recognize handwritten digits, which can be used in various real-world applications such as digit recognition in postal addresses, cheques, and forms.
