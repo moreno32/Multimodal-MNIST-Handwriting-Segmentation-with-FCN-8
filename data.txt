@@ -1,0 +1,42 @@
+Title: "Multimodal MNIST Handwriting Segmentation with FCN-8"
+
+Overview:
+In this project, a Convolutional Neural Network (CNN) and a Fully Convolutional Network (FCN-8) will be developed to predict the segmentation masks of handwritten digits from the M2NIST dataset. The M2NIST dataset is a multi-digit MNIST and contains up to 3 digits in a single image. The project will involve preprocessing the data, defining and compiling the model, and training and evaluating the model's performance. The final model will be saved and evaluated using the intersection over union (IOU) and Dice Score.
+
+Motivation:
+Handwriting recognition and segmentation is a crucial task in the field of computer vision and image processing. This project aims to create a model that can accurately segment and recognize handwritten digits, which can be used in various real-world applications such as digit recognition in postal addresses, cheques, and forms.
+
+Learning Objectives:
+
+Load and preprocess the M2NIST dataset
+Build and train a CNN and FCN-8 model from scratch
+Evaluate the model's performance using IOU and Dice Score
+Save and upload the final model for evaluation
+Technical Aspects:
+
+Tensorflow for model building and training
+Image processing using the Python Imaging Library (PIL)
+Data preprocessing with Numpy
+Technology Used:
+
+Tensorflow
+Python Imaging Library (PIL)
+Numpy
+Data Source:
+
+M2NIST dataset available on Kaggle Imports
+Project Structure:
+
+Data Import
+Data Preprocessing
+Model Definition and Compilation
+Model Training
+Model Evaluation
+Model Saving
+Credits:
+The M2NIST dataset was created by Farhan Hubble and made available on Kaggle.
+
+Link References:
+
+M2NIST dataset on Kaggle: https://www.kaggle.com/farhanhubble/multimnistm2nist
+Repository link to be added by the user.
